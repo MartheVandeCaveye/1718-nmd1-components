@@ -1,0 +1,35 @@
+.btn{
+    border-radius: 8px;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.btn:hover{
+    background: rgba(48,63,159,1);
+}
+
+.btn-primary{
+    background: rgba(48,63,159,1);
+    color: rgba(197,202,233,1);
+}
+
+.btn-primary:hover{
+    background: rgba(48,63,159,1);
+}
+.btn-secondary{
+    background: rgba(26,35,126,1);
+    color: rgba(244,143,177,1);
+}
+
+.btn-secondary:hover{
+    background: rgba(194,24,91,1);
+}
+
+.btn-tertiary{
+    border-color: rgba(26,35,126,1);
+    color: rgba(26,35,126,1);
+}
+
+.btn-tertiary:hover{
+    border-color: rgba(48,63,159,1);
+    color: rgba(48,63,159,1);
+}
